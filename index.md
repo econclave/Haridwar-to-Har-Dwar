@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Haridwar to Har-Dwar
 
-You can use the [editor on GitHub](https://github.com/econclave/Haridwar-to-Har-Dwar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## The Rise of Patanjali as a household brand in the Indian consumer segment
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Indian FMCG market has experienced the presence of product behemoths such as ITC and HUL. As the lifestyle too became more corporatized, so did their products. What they failed to realize was that there was a paradigm shift in the consumer’s preferences. The prevailing ‘organic craze’ and the increased awareness to health wellness paved way for the home-grown Patanjali, to emerge as the fastest growing Indian FMCG. But what people need to realize is that, ‘All that glitters isn’t gold’. Only because a product has a native name or it comes in an organic package doesn’t ascertain that it’s an organic product, rather it is just marketed as one.
 
-### Markdown
+The quantum leap witnessed in the performance of Patanjali is a study which is sure to kindle our inquisitiveness. Twelve years ago, it was just another ordinary ayurvedic pharmacy. But today it’s a company worth Rs.3000 billion. Their turnover in the year 2017-18 is Rs. 12000cr. They have a much diversified portfolio, ranging from juices, biscuits, medicine, facial products to sim cards. They recently launched an app, ‘Kimbho’, to compete WhatsApp, in the social network market. They are also planning to announce their entry in the solar equipment segment. The employees too are not under the back drop of any economic employment or corporate setup of sorts. Their work is referred to as seva to the nation, ayurveda and yoga.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![The Household brand for Indian Consumers](https://images.unsplash.com/photo-1464374288807-174911d4adb9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-```markdown
-Syntax highlighted code block
+Such a mammoth growth can’t be analyzed without taking the political environment into consideration. Patanjali is always criticized for enjoying BJP favoritism. From the time BJP stepped into power, Ptanajali’s earnings have doubled the figures it had managed during the previous Congress rule. While both BJP and Patanjali advocate Hindu nationalism, the outcome seems to be nothing less than Saffron terror. Yoga got its major breakthrough push after the BJP came to power. Yoga too acted as network marketing for Patanjali’s commercial success. Excessive land transfers and acquisitions for low prices and heavy discounts were very prevalent. $46 million was the rough discount given for land acquisitions to Patanjali for their purchase in states controlled by BJP. Many acres of land were freely distributed for the cultivation of herbs and ayurvedic ingredients, as they are the key ingredients in the products Patanjali manufactures. Patanajli products were also used in government canteens, meetings and in key discussions.
 
-# Header 1
-## Header 2
-### Header 3
+Patanjali products are banned in Qatar, due to excessive chemical content. It’s indeed a smart business strategy if one could flawlessly get chemicals mixed into products which are sold as ‘natural’ and ‘organic’. They have also failed the quality standards test in the armed forces’ Canteens Services Department (CSD).
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/econclave/Haridwar-to-Har-Dwar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+It’s hypocritical to see _yogis_, men who relinquish material wellbeing, to evolve into billion dollar businessmen and make huge turnover on grounds of _seva_ to the nation.
